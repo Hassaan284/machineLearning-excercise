@@ -11,6 +11,7 @@ abstract of the paper, the review comments, the final acceptance/rejection comme
 input should be used to predict the following attributes:
 
 • Acceptance status (‘Accept’ or ‘Reject’)
+
 • Review score (Integer number between 1 and 10).
 
 Note that for the latter attribute you can choose whether to use multiclass classification or
